@@ -5,3 +5,7 @@ Take me as an example, because I have to find a job now, I learn and prepare dif
 <br/>
 <br/>
 Thanks to DASH, I could look up to the dictionaries on my mac when I forget how to create something, anyway, I still consider it important for a developer to program without using the references, which is also the reason that I create this series, anyone who wants to take the exercise with me is welcome, I will try my best to make the tutorials understoodable.
+
+<br/>
+I will continue to update this days project with other exercise.
+These exercise mainly come from the ng-book
